@@ -1,0 +1,2 @@
+﻿  main.cpp
+C:\Users\rin\OneDrive\デスクトップ\Game0606\Game.h(2,10): fatal error C1083: include ファイルを開けません。'SDL.h':No such file or directory
